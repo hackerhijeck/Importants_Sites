@@ -12,6 +12,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 ```
 https://raz0r.name/twitter.ogv
 https://hackerone.com/reports/158148
+https://medium.com/@jr.mayank1999/rce-via-image-jpg-png-file-upload-8e4ad8a2100
 ```
 
 ## Rce to Reverse shell:
